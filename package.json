@@ -1,0 +1,19 @@
+{
+  "name": "koa-method-match",
+  "version": "0.1.0",
+  "description": "Method match router for koa, does not handle path matching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa",
+    "method",
+    "matching"
+  ],
+  "author": "Stephen Belanger <admin@stephenbelanger.com>",
+  "license": "MIT",
+  "dependencies": {
+    "methods": "^1.1.0"
+  }
+}
