@@ -1,5 +1,7 @@
 # koa-method-match
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Qard/koa-method-match.svg)](https://greenkeeper.io/)
+
 Method match router for koa, does not handle path matching. It is intended to be
 used with [koa-path](https://www.npmjs.org/package/koa-path), but is not tied to it.
 
